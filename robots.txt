@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salespage-1xbet.vercel.app/sitemap.xml
